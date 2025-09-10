@@ -1,0 +1,19 @@
+header {
+background-color: #d98e33;
+color: #f0f8ff;
+padding: 20px;
+text-align: center;
+}
+
+.menu{
+    text-align: center;
+background-color: #eed584;
+padding: 10px 0;
+}
+
+section{
+max-width: 800px;
+margin: 20px auto;
+background: #e5e3da;
+padding: 20px;
+}
